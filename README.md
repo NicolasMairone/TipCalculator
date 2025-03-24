@@ -10,7 +10,7 @@
 
 ## 🌐 Enlace en Producción
 La aplicación está disponible en:  
-[https://calculadora-propina-consumo-reducer.netlify.app/](https://calculadora-propina-consumo-reducer.netlify.app/)
+[https://tip-calculator-nm.netlify.app/](https://tip-calculator-nm.netlify.app/)
 
 ## 🛠️ Tecnologías Utilizadas
 - **Frontend**: HTML, CSS, JavaScript
